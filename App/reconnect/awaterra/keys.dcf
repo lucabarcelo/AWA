@@ -1,0 +1,10 @@
+name: #INPUT
+title:
+username:
+account: #INPUT
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: #INPUT
+bundleId: #INPUT
+url: https://#INPUT.shinyapps.io/#INPUT/
+when: #INPUT
