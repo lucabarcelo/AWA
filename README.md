@@ -10,7 +10,7 @@ The final stage in the analysis portion involves database integration with acade
 AWA is built on user interaction with global environments. Through the utilization of a crowd sourcing method of data collection, a larger and more responsive data set can be created for mass implementation and use. Given the ease of access and widespread use of smartphones in the world, a crowd sourcing method that involves the smartphone platform can access a huge percentage of the global population.
 
 
-### Awards
+### Awards related to the Idea
 Intel Science & Engineering Fair (Second Place - Environmental Engineering)
 https://abstracts.societyforscience.org/Home/PrintPdf/6717
 Stockholm Junior Water Prize (Bjorn von Euler Award)
