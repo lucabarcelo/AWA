@@ -13,5 +13,5 @@ AWA is built on user interaction with global environments. Through the utilizati
 ### Awards
 Intel Science & Engineering Fair (Second Place - Environmental Engineering)
 https://abstracts.societyforscience.org/Home/PrintPdf/6717
-Stockholm Junior Water Prize (CT Representative - Bjorn von Euler Award)
+Stockholm Junior Water Prize (Bjorn von Euler Award)
 https://www.wef.org/globalassets/assets-wef/3---resources/for-the-public/stockholm-junior-water-prize/2017-state-winners.pdf
