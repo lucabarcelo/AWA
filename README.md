@@ -8,3 +8,9 @@ In order to combat nitrate contamination and the process of eutrophication in wa
 A custom designed application (iOS & Android) receives nitrate concentrations from a photo through a sequence of image analysis processes, which is dependent on the red value of the photo produced from by a reaction with the Griess reagent. Following the user collected nitrate concentration of his or her sample, all the data is sent to a cloud database which interfaces with AWA’s website. On the app and website, users have access to a mapping interface that is constantly updated with app-collected values. These data points are plotted to the map, which further interpolates data from NOAA in order to recognize trends in nitrate presence.
 The final stage in the analysis portion involves database integration with academia, NGO initiatives, industrial bodies, and governmental administrations for further remediation and benchmarking. A heavy focus on public policy reform is undergone through the recognition of periods and locations of increased nitrate concentrations. This increase may result from fertilizer over-use in certain areas, manure disposal from meat-producing facilities, and other factors that are associated with human activity.
 AWA is built on user interaction with global environments. Through the utilization of a crowd sourcing method of data collection, a larger and more responsive data set can be created for mass implementation and use. Given the ease of access and widespread use of smartphones in the world, a crowd sourcing method that involves the smartphone platform can access a huge percentage of the global population.
+
+
+### Awards
+
+https://abstracts.societyforscience.org/Home/PrintPdf/6717
+https://www.wef.org/globalassets/assets-wef/3---resources/for-the-public/stockholm-junior-water-prize/2017-state-winners.pdf
